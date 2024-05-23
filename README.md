@@ -2,7 +2,7 @@
 всем 50 баллов и 5 аморетто
 
 ПРИМЕРЫ СТАРЫХ КОДОВ:
-LoginForm.txt, MainMenuForm.txt, class buffer.txt, class db.txt
+LoginForm.txt, MainMenuForm.txt, class buffer.txt, class db.txt и архив
 
 ФОТО:
 er-диаграмма
